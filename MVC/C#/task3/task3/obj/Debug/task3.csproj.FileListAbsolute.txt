@@ -1,0 +1,7 @@
+C:\Users\yya0\OneDrive\سطح المكتب\C# TASKS\task3\task3\bin\Debug\task3.exe.config
+C:\Users\yya0\OneDrive\سطح المكتب\C# TASKS\task3\task3\bin\Debug\task3.exe
+C:\Users\yya0\OneDrive\سطح المكتب\C# TASKS\task3\task3\bin\Debug\task3.pdb
+C:\Users\yya0\OneDrive\سطح المكتب\C# TASKS\task3\task3\obj\Debug\task3.csproj.AssemblyReference.cache
+C:\Users\yya0\OneDrive\سطح المكتب\C# TASKS\task3\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+C:\Users\yya0\OneDrive\سطح المكتب\C# TASKS\task3\task3\obj\Debug\task3.exe
+C:\Users\yya0\OneDrive\سطح المكتب\C# TASKS\task3\task3\obj\Debug\task3.pdb
