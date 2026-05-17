@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|c:\\users\\yya0\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mvc\\oyil\\oyil\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|c:\\users\\yya0\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mvc\\oyil\\oyil\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|c:\\users\\yya0\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mvc\\oyil\\oyil\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|c:\\users\\yya0\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mvc\\oyil\\oyil\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|c:\\users\\yya0\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mvc\\oyil\\oyil\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|solutionrelative:oyil\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|c:\\users\\yya0\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mvc\\oyil\\oyil\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|c:\\users\\yya0\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mvc\\oyil\\oyil\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|solutionrelative:oyil\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|c:\\users\\yya0\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mvc\\oyil\\oyil\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|c:\\users\\yya0\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mvc\\oyil\\oyil\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|c:\\users\\yya0\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mvc\\oyil\\oyil\\views\\category\\productsbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\category\\productsbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|c:\\users\\yya0\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mvc\\oyil\\oyil\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|c:\\users\\yya0\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mvc\\oyil\\oyil\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|c:\\users\\yya0\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mvc\\oyil\\oyil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|solutionrelative:oyil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|c:\\users\\yya0\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mvc\\oyil\\oyil\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|solutionrelative:oyil\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|c:\\users\\yya0\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mvc\\oyil\\oyil\\oyil.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|solutionrelative:oyil\\oyil.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|c:\\users\\yya0\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mvc\\oyil\\oyil\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|c:\\users\\yya0\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mvc\\oyil\\oyil\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|c:\\users\\yya0\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mvc\\oyil\\oyil\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|solutionrelative:oyil\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|c:\\users\\yya0\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mvc\\oyil\\oyil\\views\\user\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\user\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|c:\\users\\yya0\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mvc\\oyil\\oyil\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|c:\\users\\yya0\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mvc\\oyil\\oyil\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|solutionrelative:oyil\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|c:\\users\\yya0\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mvc\\oyil\\oyil\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E967FF79-005E-413F-BCD9-4C36AD6AE5A9}|OYIL\\OYIL.csproj|solutionrelative:oyil\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAUwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T17:05:15.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwDsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T17:05:38.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwDMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T17:10:48.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T09:34:15.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "OYIL\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "OYIL\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAUwCcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T08:36:21.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAUwFQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T17:04:51.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "OYIL\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "OYIL\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T08:38:05.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T15:14:15.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T09:34:42.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsByCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\Category\\ProductsByCategory.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\Category\\ProductsByCategory.cshtml",
+              "ToolTip": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\Category\\ProductsByCategory.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\Category\\ProductsByCategory.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T15:15:39.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T15:14:43.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T15:13:42.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Program.cs",
+              "RelativeDocumentMoniker": "OYIL\\Program.cs",
+              "ToolTip": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Program.cs",
+              "RelativeToolTip": "OYIL\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T08:29:59.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "OYIL\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Controllers\\UserController.cs",
+              "RelativeToolTip": "OYIL\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T08:35:51.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OYIL.csproj",
+              "DocumentMoniker": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\OYIL.csproj",
+              "RelativeDocumentMoniker": "OYIL\\OYIL.csproj",
+              "ToolTip": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\OYIL.csproj",
+              "RelativeToolTip": "OYIL\\OYIL.csproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-13T11:25:22.942Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswCkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T10:51:25.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T09:25:13.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OYIL\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OYIL\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T09:32:28.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\User\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\User\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\User\\SignIn.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\User\\SignIn.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T09:25:47.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\User\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\User\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Views\\User\\SignUp.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\User\\SignUp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T09:25:02.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\appsettings.json",
+              "RelativeDocumentMoniker": "OYIL\\appsettings.json",
+              "ToolTip": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\appsettings.json",
+              "RelativeToolTip": "OYIL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-13T08:34:54.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "OYIL\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\yya0\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MVC\\OYIL\\OYIL\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "OYIL\\Models\\MyDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T08:33:48.813Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
