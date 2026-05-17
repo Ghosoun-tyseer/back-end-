@@ -1,3 +1,0 @@
-Name: Laptop, Price: 800, Stock: 8
-Name: Smartphone, Price: 500, Stock: 25
-Name: Headphones, Price: 50, Stock: 50
