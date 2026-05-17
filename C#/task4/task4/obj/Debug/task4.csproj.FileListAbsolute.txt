@@ -1,0 +1,7 @@
+C:\Users\yya0\OneDrive\سطح المكتب\C# TASKS\task4\task4\bin\Debug\task4.exe.config
+C:\Users\yya0\OneDrive\سطح المكتب\C# TASKS\task4\task4\bin\Debug\task4.exe
+C:\Users\yya0\OneDrive\سطح المكتب\C# TASKS\task4\task4\bin\Debug\task4.pdb
+C:\Users\yya0\OneDrive\سطح المكتب\C# TASKS\task4\task4\obj\Debug\task4.csproj.AssemblyReference.cache
+C:\Users\yya0\OneDrive\سطح المكتب\C# TASKS\task4\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+C:\Users\yya0\OneDrive\سطح المكتب\C# TASKS\task4\task4\obj\Debug\task4.exe
+C:\Users\yya0\OneDrive\سطح المكتب\C# TASKS\task4\task4\obj\Debug\task4.pdb
