@@ -1,0 +1,158 @@
+﻿@* ربط التنسيق والقالب *@
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    ViewData["Title"] = "Educational Dashboard";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/StyleSheet.css" />
+    <style>
+        .stat-card {
+            transition: 0.3s;
+            border: none;
+            border-radius: 15px;
+        }
+
+            .stat-card:hover {
+                transform: translateY(-5px);
+                box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+            }
+    </style>
+}
+
+@* 1. قسم المتغيرات (Variables) والقوائم (Arrays/Lists) *@
+@{
+    // -- Variables (المتغيرات) --
+    string instructorName = "Eng. Ghosoun";
+    int passingGrade = 60;
+    DateTime lastUpdate = DateTime.Now;
+    bool isSystemOnline = true;
+
+    // -- Array (المصفوفة الثابتة) --
+    string[] semesterModules = { "Bioinformatics", "Database", "Programming", "Ethics" };
+
+    // -- List/Collection (قائمة البيانات الديناميكية) --
+    var students = new List<dynamic>
+    {
+        new { ID = 1, Name = "Ghosoun", Grade = 95, Attendance = 100 },
+        new { ID = 2, Name = "Ahmad", Grade = 72, Attendance = 85 },
+        new { ID = 3, Name = "Sara", Grade = 55, Attendance = 90 },
+        new { ID = 4, Name = "Zaid", Grade = 88, Attendance = 60 }
+    };
+
+    // حساب إحصائية سريعة باستخدام المتغيرات
+    int totalStudents = students.Count;
+    int failedCount = students.Count(s => s.Grade < passingGrade);
+}
+
+<div class="container mt-4">
+
+    @* عرض المتغيرات البسيطة *@
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2>Welcome, @instructorName</h2>
+        <span class="badge @(isSystemOnline ? "bg-success" : "bg-danger")">
+            System: @(isSystemOnline ? "Online" : "Offline")
+        </span>
+    </div>
+
+    @* 2. استخدام Loop و Array لإنشاء البطاقات الإحصائية *@
+    <div class="row mb-5">
+        @{
+            string[] cardTitles = { "Total Students", "Failed (Alert)", "Modules This Semester" };
+            string[] cardColors = { "bg-primary", "bg-danger", "bg-info" };
+            string[] cardIcons = { "bi-people", "bi-exclamation-triangle", "bi-book" };
+        }
+
+        @for (int i = 0; i < cardTitles.Length; i++)
+        {
+            <div class="col-md-4">
+                <div class="card stat-card text-white @cardColors[i]">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between">
+                            <div>
+                                <h6>@cardTitles[i]</h6>
+                                @* استخدام If/Else لتحديد الرقم الذي سيظهر في كل بطاقة *@
+                                @if (i == 0)
+                                {
+                                    <h3>@totalStudents</h3>
+                                }
+                                else if (i == 1)
+                                {
+                                    <h3>@failedCount</h3>
+                                }
+                                else
+                                {
+                                    <h3>@semesterModules.Length</h3>
+                                }
+                            </div>
+                            <i class="bi @cardIcons[i] fs-1 opacity-50"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    @* 3. استخدام Loop لعرض عناصر المصفوفة (Array) *@
+    <div class="card mb-5 shadow-sm">
+        <div class="card-header bg-white"><strong>Active Modules (Array Loop)</strong></div>
+        <div class="card-body">
+            @foreach (var module in semesterModules)
+            {
+                <span class="badge rounded-pill bg-light text-dark border me-2">@module</span>
+            }
+        </div>
+    </div>
+
+    @* 4. الجدول الديناميكي (Loop + If/Else) *@
+    <div class="card shadow-sm">
+        <div class="card-header bg-dark text-white">Student Performance Report</div>
+        <div class="table-responsive">
+            <table class="table table-hover mb-0">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Name</th>
+                        <th>Grade</th>
+                        <th>Status</th>
+                        <th>Attendance</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var student in students)
+                    {
+                        <tr>
+                            <td>@student.ID</td>
+                            <td><strong>@student.Name</strong></td>
+                            <td>@student.Grade%</td>
+                            <td>
+                                @* منطق If/Else لتحديد حالة النجاح والرسوب *@
+                                @if (student.Grade >= passingGrade)
+                                {
+                                    <span class="text-success"><i class="bi bi-check-circle-fill"></i> Passed</span>
+                                }
+                                else
+                                {
+                                    <span class="text-danger"><i class="bi bi-x-circle-fill"></i> Failed</span>
+                                }
+                            </td>
+                            <td>
+                                @* منطق If/Else لتنبيه الحضور المنخفض *@
+                                @if (student.Attendance < 75)
+                                {
+                                    <span class="text-warning fw-bold">Low (@student.Attendance%)</span>
+                                }
+                                else
+                                {
+                                    <span>Normal (@student.Attendance%)</span>
+                                }
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <p class="text-muted mt-3"><small>Last Data Update: @lastUpdate.ToString("F")</small></p>
+</div>

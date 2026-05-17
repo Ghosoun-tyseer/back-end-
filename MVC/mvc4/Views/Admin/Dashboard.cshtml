@@ -1,0 +1,182 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+
+
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/StyleSheet.css" />
+}
+
+@{
+   
+    var students = new List<dynamic>
+    {
+        new { ID = 1, Name = "Ghosoun", Major = "Biomedical Informatics", Grade = "A" },
+        new { ID = 2, Name = "Ahmad", Major = "Software Engineering", Grade = "B+" },
+        new { ID = 3, Name = "Sara", Major = "Data Science", Grade = "A-" },
+        new { ID = 4, Name = "Zaid", Major = "Full Stack Dev", Grade = "B" }
+    };
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Students List (Dynamic Razor Table)</h2>
+
+    @* 2. استخدام كلاسات Bootstrap لتنسيق الجدول *@
+    <table class="table table-striped table-hover table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th>ID</th>
+                <th>Full Name</th>
+                <th>Major</th>
+                <th>Grade</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @* 3. استخدام Razor Loop لتوليد الصفوف ديناميكياً *@
+            @foreach (var item in students)
+            {
+                <tr>
+                    <td>@item.ID</td>
+                    @* <td>@item.Name</td> *@
+                    <td>
+                        @if (item.Name == "Ghosoun")
+                        {
+                            <span class="text-primary fw-bold">@item.Name (Administrator)</span>
+                        }
+                        else
+                        {
+                            <span>@item.Name</span>
+                        }
+                    </td>
+
+                    <td>@item.Major</td>
+                    <td>
+                        @* استخدام جملة If لتلوين التقدير *@
+                        @if (item.Grade.StartsWith("A"))
+                        {
+                            <span class="badge bg-success">@item.Grade</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-primary">@item.Grade</span>
+                        }
+                    </td>
+                    <td>
+                        <button class="btn btn-sm btn-outline-info">View Details</button>
+                    </td>
+                </tr>
+
+
+            }
+
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+                    @{
+
+                 var Products = new[]
+
+                  {
+
+                new { ID = 1, Name = "laptop", Price = 800 , Stock= 5},
+                new { ID = 2, Name = "mouce", Price = 50 , Stock= 0},
+                new { ID = 3, Name = "keyboard", Price = 100 , Stock= 2 },
+                new { ID = 4, Name = "headphones", Price =500, Stock=12 }
+                };
+                    }
+
+
+
+                    <div class="container mt-5">
+
+
+                        @* 2. استخدام كلاسات Bootstrap لتنسيق الجدول *@
+                        <table class="table table-striped table-hover table-bordered">
+                            <thead class="table-dark">
+                                <tr>
+                                    <th>ID</th>
+                                    <th>Name</th>
+                                    <th>Price</th>
+                                    <th>Stock</th>
+                                    <th>Status</th>
+
+                      </tr>
+                            </thead>
+
+
+                            <tbody>
+
+                                @foreach (var product in Products)
+                                {
+                                    <tr>
+                                        <td>@product.ID</td>
+
+                                        <td>
+
+                                            <span>@product.Name</span>
+
+                                        </td>
+
+                                        <td>@product.Price</td>
+
+                                        <td>
+
+                                            @if (product.Stock == 0)
+                                            {
+                                                <span class="badge bg-danger">@product.Stock</span>
+                                            }
+                                            else
+                                            {
+                                                <span class="badge bg-primary">@product.Stock</span>
+                                            }
+                                        </td>
+
+                                        <td>
+                                         @if (product.Stock == 0)
+                                            {
+                                                <span class="badge bg-danger">out of stock</span>
+                                            }
+
+                                         else if (product.Stock <= 5 & product.Stock > 0)
+                        {
+        
+                                <span class="badge bg-warning text-dark">Low Stock</span>
+                                           }
+
+                                            else
+                                            {
+                              <span class="badge bg-success">available</span>
+                                            }
+                                        </td>
+                                    </tr>
+
+
+                                }
+
+                            </tbody>
+                        </table>
+
+
+                             </div>
